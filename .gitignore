@@ -1,1 +1,4 @@
-Mylogs.log
+/Mylogs.log
+*.log
+*.c++
+/ignore
